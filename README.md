@@ -15,7 +15,6 @@ Spending Score (1–100)
 Python
 Pandas
 Seaborn
-Matplotlib
 Scikit-learn
 Kneed
 
